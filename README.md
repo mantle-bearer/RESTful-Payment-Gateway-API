@@ -75,8 +75,8 @@ This project is a RESTful API built using Django REST Framework, designed to all
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/mantle-bearer/RESTful-Payment-Gateway-API.git
+   cd RESTful-Payment-Gateway-API
    ```
 2. Install the required packages:
    ```bash
